@@ -1,4 +1,4 @@
-##### Hi, schön dass du da bist 👋  👋
+### Hi, schön dass du da bist 👋  👋
 
 Ich bin plurixx, ein IT Systemintegrator (Noch) in Aubildung aus Deutschland.
 Ich nutze GitHub, um neues zu lernen und um in spannenden Projekten mit anpacken zu können.
