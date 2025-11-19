@@ -77,17 +77,6 @@ Ich nutze GitHub, um Neues zu lernen und um in spannenden Projekten mitzuarbeite
 </div>
 
 
-
-## 🎯 Was ich gerade mache
-
-- 🔭 **Projekt**: Entwicklung eines smarten Spiegels (MagicMirror²) für meine Projektphase
-- 🌱 **Lernen**: Vertiefe mich in Web Development und IT-Sicherheit usw.
-- 🔍 **Interesse**: Immer auf der Suche nach spannenden Open-Source-Projekten
-- 💬 **Hilfe**: Frag mich gerne, wenn du Unterstützung brauchst!
-- 📫 **Kontakt**: Nur bei ernsthaften Anfragen
-
-
-
 ## 🤝 Let's Connect
 
 <div align="center">
