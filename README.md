@@ -56,6 +56,7 @@ Ich nutze GitHub, um Neues zu lernen und um in spannenden Projekten mitzuarbeite
 **⚡ Status**
 
 `In Ausbildung`
+
 <img src="https://img.shields.io/badge/Noch_am-Lernen-1a1b27?style=for-the-badge&labelColor=5a4a78&color=bb9af7"/>
 
 
