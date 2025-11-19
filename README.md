@@ -7,25 +7,6 @@
 </div>
 
 ---
-
-## 🧑‍💻 Über mich
-
-Ich bin **plurixx**, ein **IT-Systemintegrator** (noch) in Ausbildung aus Deutschland 🇩🇪  
-Ich nutze GitHub, um Neues zu lernen und um in spannenden Projekten mitzuarbeiten.
-
-### 🚀 Aktuelles
-
-```yaml
-aktuelles_projekt: "Smart Mirror (MagicMirror²) - Projektphase"
-learning_focus: 
-  - "Web Development"
-  - "IT-Sicherheit"
-  - "Open Source Projekte"
-status: "Offen für Zusammenarbeit 🤝"
-```
-
----
-
 ## 💻 Tech Stack & Interessen
 
 <div align="center">
@@ -39,6 +20,24 @@ status: "Offen für Zusammenarbeit 🤝"
 
 </div>
 
+---
+
+## 🧑‍💻 Über mich
+
+Ich bin **plurixx**, ein **IT-Systemintegrator** (noch) in Ausbildung aus Deutschland 🇩🇪  
+Ich nutze GitHub, um Neues zu lernen und um in spannenden Projekten mitzuarbeiten.
+
+### 🚀 Aktuelles
+
+```yaml
+Projekte: "Smart Mirror (MagicMirror²) - Projektphase"
+learning_focus: 
+  - "Web Development"
+  - "IT-Sicherheit"
+  - "Open Source Projekte"
+  - "Network"
+status: "Noch am Lernen"
+```
 ---
 
 ## 📊 GitHub Stats
@@ -55,7 +54,7 @@ status: "Offen für Zusammenarbeit 🤝"
 ## 🎯 Was ich gerade mache
 
 - 🔭 **Projekt**: Entwicklung eines smarten Spiegels (MagicMirror²) für meine Projektphase
-- 🌱 **Lernen**: Vertiefe mich in Web Development und IT-Sicherheit
+- 🌱 **Lernen**: Vertiefe mich in Web Development und IT-Sicherheit usw.
 - 🔍 **Interesse**: Immer auf der Suche nach spannenden Open-Source-Projekten
 - 💬 **Hilfe**: Frag mich gerne, wenn du Unterstützung brauchst!
 - 📫 **Kontakt**: Nur bei ernsthaften Anfragen
