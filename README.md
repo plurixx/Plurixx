@@ -27,15 +27,42 @@ Ich nutze GitHub, um Neues zu lernen und um in spannenden Projekten mitzuarbeite
 
 ### 🚀 Aktuelles
 
-```yaml
-Projekte: "Smart Mirror (MagicMirror²) - Projektphase"
-learning_focus: 
-  - "Web Development"
-  - "IT-Sicherheit"
-  - "Open Source Projekte"
-  - "Network"
-status: "Noch am Lernen"
-```
+<div align="center">
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+**📁 Projekte**
+
+<img src="https://img.shields.io/badge/Smart_Mirror-MagicMirror²-1a1b27?style=for-the-badge&labelColor=5a4a78&color=7aa2f7"/>
+
+`Projektphase`
+
+</td>
+<td width="33%" align="center">
+
+**📚 Learning Focus**
+
+<img src="https://img.shields.io/badge/Web-Development-1a1b27?style=for-the-badge&labelColor=5a4a78&color=7aa2f7"/>
+<img src="https://img.shields.io/badge/IT-Sicherheit-1a1b27?style=for-the-badge&labelColor=5a4a78&color=7aa2f7"/>
+<img src="https://img.shields.io/badge/Open_Source-Projekte-1a1b27?style=for-the-badge&labelColor=5a4a78&color=7aa2f7"/>
+<img src="https://img.shields.io/badge/Network-Grundlagen-1a1b27?style=for-the-badge&labelColor=5a4a78&color=7aa2f7"/>
+
+</td>
+<td width="33%" align="center">
+
+**⚡ Status**
+
+<img src="https://img.shields.io/badge/Noch_am-Lernen-1a1b27?style=for-the-badge&labelColor=5a4a78&color=bb9af7"/>
+
+`In Ausbildung`
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ## 📊 GitHub Stats
 
