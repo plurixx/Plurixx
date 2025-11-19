@@ -2,11 +2,10 @@
   
 # 👋 Hi, schön dass du da bist!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=IT+Systemintegrator+in+Ausbildung;Passionate+Developer+%26+Learner;Smart+Home+%26+Security+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=772392&background=71FF1B00&center=true&width=600&height=60&lines=IT+Systemintegrator+in+Ausbildung;Interessiert+an+Open+Source;Und+Technik+Projekten"/>
 
 </div>
 
----
 ## 💻 Tech Stack & Interessen
 
 <div align="center">
@@ -20,7 +19,6 @@
 
 </div>
 
----
 
 ## 🧑‍💻 Über mich
 
@@ -38,7 +36,6 @@ learning_focus:
   - "Network"
 status: "Noch am Lernen"
 ```
----
 
 ## 📊 GitHub Stats
 
@@ -49,7 +46,7 @@ status: "Noch am Lernen"
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plurixx&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
 </div>
 
----
+
 
 ## 🎯 Was ich gerade mache
 
@@ -59,7 +56,7 @@ status: "Noch am Lernen"
 - 💬 **Hilfe**: Frag mich gerne, wenn du Unterstützung brauchst!
 - 📫 **Kontakt**: Nur bei ernsthaften Anfragen
 
----
+
 
 ## 🤝 Let's Connect
 
@@ -72,7 +69,7 @@ status: "Noch am Lernen"
 
 </div>
 
----
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
