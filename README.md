@@ -44,13 +44,10 @@ status: "Offen für Zusammenarbeit 🤝"
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![plurixx's GitHub stats](https://github-readme-stats.vercel.app/api?username=plurixx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=plurixx&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=plurixx&layout=compact&theme=tokyonight&hide_border=true)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=plurixx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=plurixx&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=plurixx&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
 </div>
 
 ---
